@@ -1,9 +1,9 @@
 # React Canvas Invaders
 
-Space Invaders immitation implemented on Canvas primitives with React for game logic and game status.
+Space Invaders imitation implemented on primitives inside canvas with React for the game logic and the whole state.
 
 React requires some initial setup before we can get our hands dirty.
-To agilize this process i used `create-react-app`
+To agilize this process I used `create-react-app`
 
 You can do the same by running:
 
