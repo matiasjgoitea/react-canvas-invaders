@@ -1,10 +1,14 @@
 import React from 'react'
-import CanvasInvaders from './canvas/CanvasInvaders.js'
+import Canvas from './canvas'
+import './app.css'
 
-export default class App extends React.Component {
+export default class CanvasInvaders extends React.Component {
   render() {
     return (
-      <CanvasInvaders />
+      <div>
+        <h1> ¡Destroy all humans! </h1>
+        <Canvas />
+      </div>
     )
   }
 }
